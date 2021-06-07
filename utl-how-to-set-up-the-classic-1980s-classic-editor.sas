@@ -42,11 +42,6 @@ Run this code
 download and include "utl_perpac.sas"
 https://tinyurl.com/3j6k6x4a
 
-* this should install all my command macros;
-%inc "X:\consortia\Sandbox\Roger\oto_macroLibrary\utl_perpac.sas";
-
-https://tinyurl.com/3j6k6x4a
-
 Test Run program and type 'frq sex*age' on command line
 
    Command ==> frq sex*age
